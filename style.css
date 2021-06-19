@@ -1,0 +1,40 @@
+*{
+    size: border-box;
+}
+.content{
+    margin-top: 200px;
+}
+.content-head{
+    font-weight: bold;
+    font-size: 70px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.content-para{
+    margin-top: 10px;
+    font-family :'Times New Roman', Times, serif;
+    color: #333;
+    font-size: 20px;
+}
+.sign-in{
+    text-decoration: none;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 18px;
+    /* font-weight: bold; */
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.join {
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+    
+.index_img{
+    height: 100%;
+    width: 100%;
+    margin-top: 50px;
+}
+.login-card{
+    align-items: center;
+    
+}
